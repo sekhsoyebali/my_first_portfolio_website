@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: var(--primary-font);
+}
+body {
+  overflow: hidden;
+}
+.resume embed {
+  height: 100vh;
+}
