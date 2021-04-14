@@ -285,6 +285,9 @@ img.design {
   .content .contentBox a:last-child {
     margin-top: 5px;
   }
+  #social li a {
+    margin-top: 30px;
+  }
   .banner.active #logo,
   .banner.active .content,
   .banner.active #social,
