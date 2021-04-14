@@ -294,4 +294,19 @@ img.design {
   .banner.active #nitesh {
     transition: 0s;
   }
+  #menu #credit {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding: 10px;
+  }
+}
+/* Desktop credit */
+@media (min-width: 992px) {
+  #menu #credit {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 10px;
+  }
 }
